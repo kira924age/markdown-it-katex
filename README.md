@@ -1,3 +1,5 @@
+**forked from waylonflinn/markdown-it-katex**
+
 # markdown-it-katex
 
 Add Math to your Markdown
